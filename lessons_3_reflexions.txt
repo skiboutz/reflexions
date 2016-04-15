@@ -1,1 +1,2 @@
-
+When would you want to use a remote repository rather than keeping all your work local?
+When you want to share your code or project with someone else or if you want other people to collaborate on your project
