@@ -13,3 +13,7 @@ Branches are code copies in the same repository
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Makes the conflicting merge feasable
 Allows the 2 labels to evolve seperatly
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would setup a shared foler or maybe a remote SVN repository.
+It would be a lot harder but would also require the collaborators to learn git and GitHub (Maybe I should invite them to the course!)
