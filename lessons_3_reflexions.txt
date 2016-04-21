@@ -17,3 +17,7 @@ Allows the 2 labels to evolve seperatly
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I would setup a shared foler or maybe a remote SVN repository.
 It would be a lot harder but would also require the collaborators to learn git and GitHub (Maybe I should invite them to the course!)
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+In order to keep the master branch clean at all time!
+When working on experimental features
